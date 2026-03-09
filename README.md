@@ -39,11 +39,6 @@ Dit project maakt gebruik van **PlatformIO**.
 3. Selecteer het juiste environment (bijv. `uno_r4_wifi`).
 4. Klik op **Upload**.
 
-## 📝 Documentatie
-
-- [Walkthrough](file:///Users/matstanghe/.gemini/antigravity/brain/9bf9bb8b-a6c5-44b8-8464-bfad790ee5c6/walkthrough.md): Gedetailleerde uitleg over de werking.
-- [BLE API](file:///Users/matstanghe/esp/projects/Opendeurdag-Snoepautomaat/BLE_API.md): Info voor developers.
-
 ---
 
-_Gemaakt door Antigravity voor Mats Stanghe - Opendeurdag Snoepautomaat Project_
+_Gemaakt door Mats Tanghe - Opendeurdag Snoepautomaat Project_
