@@ -39,6 +39,10 @@ Dit project maakt gebruik van **PlatformIO**.
 3. Selecteer het juiste environment (bijv. `uno_r4_wifi`).
 4. Klik op **Upload**.
 
+## Notes
+
+Dit project is enkel nog maar getest op een Arduino Uno R4 WiFi, de functionaliteit kan veranderen van afhankelijk welke controller je gebruikt.
+
 ---
 
 _Gemaakt door Mats Tanghe - Opendeurdag Snoepautomaat Project_
